@@ -1,0 +1,14 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0B1120"/>
+  <rect x="120" y="110" width="960" height="580" rx="34" fill="url(#grad)"/>
+  <rect x="220" y="190" width="360" height="240" rx="24" fill="#F8FAFC" fill-opacity="0.94"/>
+  <circle cx="820" cy="320" r="130" fill="#FDE68A" fill-opacity="0.25"/>
+  <rect x="620" y="470" width="260" height="90" rx="18" fill="#0F172A" fill-opacity="0.76"/>
+  <text x="600" y="660" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="34" font-weight="700">Future Goals</text>
+  <defs>
+    <linearGradient id="grad" x1="140" y1="120" x2="1080" y2="660" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+</svg>

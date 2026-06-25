@@ -1,0 +1,14 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#07111F"/>
+  <rect x="80" y="90" width="1040" height="620" rx="32" fill="url(#grad)"/>
+  <circle cx="330" cy="320" r="140" fill="#FDE68A" fill-opacity="0.35"/>
+  <rect x="220" y="420" width="320" height="160" rx="20" fill="#0F172A" fill-opacity="0.7"/>
+  <rect x="620" y="270" width="260" height="220" rx="24" fill="#F8FAFC" fill-opacity="0.95"/>
+  <text x="600" y="660" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial" font-size="34" font-weight="700">Creative Workspace</text>
+  <defs>
+    <linearGradient id="grad" x1="90" y1="100" x2="1110" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+</svg>

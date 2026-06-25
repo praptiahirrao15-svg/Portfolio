@@ -1,0 +1,22 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" rx="48" fill="#07111F"/>
+  <rect x="70" y="70" width="760" height="960" rx="40" fill="url(#bg)"/>
+  <circle cx="450" cy="410" r="220" fill="#FDE68A" fill-opacity="0.35"/>
+  <circle cx="450" cy="380" r="185" fill="#0F172A" stroke="#7DD3FC" stroke-width="10"/>
+  <path d="M298 760C321 654 392 600 450 600C508 600 579 654 602 760V860H298V760Z" fill="#FDE68A"/>
+  <circle cx="450" cy="350" r="116" fill="#F4C38A"/>
+  <path d="M352 310C352 241 404 188 473 188C542 188 594 241 594 310V340H352V310Z" fill="#0F172A"/>
+  <path d="M342 346C342 267 400 212 475 212C550 212 608 267 608 346V376H342V346Z" fill="#0F172A"/>
+  <circle cx="414" cy="350" r="16" fill="#0F172A"/>
+  <circle cx="486" cy="350" r="16" fill="#0F172A"/>
+  <path d="M403 414C421 433 459 433 477 414" stroke="#B45309" stroke-width="12" stroke-linecap="round"/>
+  <rect x="246" y="824" width="408" height="78" rx="20" fill="#0F172A" fill-opacity="0.8"/>
+  <text x="450" y="874" text-anchor="middle" fill="#E0F2FE" font-family="Segoe UI, Arial" font-size="40" font-weight="700">Prapti Ahirrao</text>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="80" x2="820" y2="1020" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.5" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>
